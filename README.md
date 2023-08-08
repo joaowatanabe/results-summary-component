@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Web](./assets/screenshots/web.gif)
-![Mobile](./assets/screenshots/mobile.gif)
+![Web](result-summary-component/assets/screenshots/gif/web.gif)
+![Mobile](result-summary-component/assets/screenshots/gif/mobile.gif)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://your-solution-url.com)
+- Live Site URL: [Github pages](https://your-live-site-url.com)
 
 
 ## My process
