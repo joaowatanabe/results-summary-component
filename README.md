@@ -32,8 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor](https://your-solution-url.com)
-- Live Site URL: [Github pages](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/results-summary-component-solution-with-animated-button-h9FaWOrDd6)
 
 
 ## My process
@@ -80,5 +79,5 @@ I want to continue with my studies in CSS and already start some things in JS, a
 
 ## Author
 
-- Frontend Mentor - João Vicente Watanabe[@wabemusic](https://www.frontendmentor.io/profile/wabemusic)
+- Frontend Mentor - João Vicente Watanabe[@joaowatanabe](https://www.frontendmentor.io/profile/joaowatanabe)
 - Twitter - [@wabemusic](https://www.twitter.com/wabemusic)
