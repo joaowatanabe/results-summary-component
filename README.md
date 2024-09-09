@@ -1,64 +1,65 @@
-# Frontend Mentor - Results summary component solution
+# Frontend Mentor - Solução para o componente de resumo de resultados
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-## Table of contents
+Esta é uma solução para o [desafio do componente de resumo de resultados no Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Os desafios do Frontend Mentor ajudam a aprimorar suas habilidades de codificação ao construir projetos realistas.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+## Índice
+
+- [Visão Geral](#visão-geral)
+  - [O desafio](#o-desafio)
+  - [Capturas de tela](#capturas-de-tela)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Meu Processo](#meu-processo)
+  - [Tecnologias utilizadas](#tecnologias-utilizadas)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+  - [Recursos úteis](#recursos-úteis)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
-## Overview
+## Visão Geral
 
-### The challenge
+### O desafio
 
-Users should be able to:
+Os usuários devem ser capazes de:
 
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+- Visualizar o layout ideal da interface, dependendo do tamanho da tela do dispositivo
+- Ver os estados de hover e focus para todos os elementos interativos da página
 
-### Screenshot
+### Capturas de tela
 
 ![Web](result-summary-component/assets/screenshots/gif/web.gif)
 ![Mobile](result-summary-component/assets/screenshots/gif/mobile.gif)
 
-
 ### Links
 
-- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/results-summary-component-solution-with-animated-button-h9FaWOrDd6)
+- URL da solução: [Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component-solution-with-animated-button-h9FaWOrDd6)
 
+## Meu Processo
 
-## My process
+### Tecnologias utilizadas
 
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 semântico
+- Propriedades customizadas de CSS
 - Flexbox
 - CSS Grid
 
-### What I learned
- It is my second time trying to solve this challanges and i'm proud of myself, it's important to celebrate small achievements.
+### O que eu aprendi
 
- learned some new things in CSS:
- ```css
+Este é o segundo desafio que resolvo e estou orgulhoso de mim mesmo. É importante celebrar pequenas conquistas.
+
+Aprendi algumas coisas novas em CSS:
+
+```css
 @keyframes anima {
-  0%{
+  0% {
     transform: scale(1);
   }
-  100%{
+  100% {
     transform: scale(1.03);
   }
 }
 
-.btn:hover{
+.btn:hover {
   background-image: linear-gradient(hsla(256, 72%, 46%, 1), hsl(241, 81%, 54%));
   animation-name: anima;
   animation-duration: 0.7s;
@@ -66,18 +67,17 @@ Users should be able to:
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
-
 ```
- 
-### Continued development
-The challenges have helped me a lot, to keep practicing and challenging myself to try new things and see things from another perspective.
-I want to continue with my studies in CSS and already start some things in JS, and I intend to use some frameworks.
 
-### Useful resources
+### Desenvolvimento contínuo
 
-- [Box Shadow video tutorioal - PT-BR](https://www.youtube.com/watch?v=xrftarUZl44&t=302s&ab_channel=dpw) - It helped me to have a better understanding with Box Shadow in CSS.
+Os desafios têm me ajudado bastante, incentivando-me a continuar praticando, experimentando coisas novas e observando as coisas de uma nova perspectiva. Quero seguir estudando CSS e começar a explorar mais o JavaScript. Também tenho interesse em começar a utilizar alguns frameworks.
 
-## Author
+### Recursos úteis
 
-- Frontend Mentor - João Vicente Watanabe[@joaowatanabe](https://www.frontendmentor.io/profile/joaowatanabe)
+- [Vídeo tutorial sobre Box Shadow - PT-BR](https://www.youtube.com/watch?v=xrftarUZl44&t=302s&ab_channel=dpw) - Este vídeo me ajudou a entender melhor como utilizar o Box Shadow no CSS.
+
+## Autor
+
+- Frontend Mentor - João Vicente Watanabe [@joaowatanabe](https://www.frontendmentor.io/profile/joaowatanabe)
 - Twitter - [@wabemusic](https://www.twitter.com/wabemusic)
